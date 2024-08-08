@@ -1,3 +1,1 @@
-There is still much to code for this website, please leave feedback! 
-
-One may have to adjust media locations.
+No longer working on this, go to current website.
